@@ -1,1 +1,2 @@
-# Firebase-example-001
+# Expo Firebase Authentication & Firestore 
+Expo Firebase authentication and Firestore example 
